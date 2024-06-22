@@ -1,0 +1,24 @@
+body {
+
+}
+
+/* mob */
+.container {
+
+}
+
+/* tablet */
+
+@media (min-width: 768px) {
+.container {
+
+}
+}
+
+/* desktop */
+
+@media (min-width: 1158px) {
+.container {
+
+}
+}
